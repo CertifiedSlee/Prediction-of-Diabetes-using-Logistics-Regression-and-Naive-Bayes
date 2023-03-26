@@ -6,13 +6,18 @@ The dataset used for this project is the Pima Indians Diabetes Database, obtaine
 
 # Libraries Used:
 The following Python libraries were used for this project:
+
     NumPy
+    
     Pandas
+    
     Scikit-learn
 
 # Models Used:
 Two classification models were used for this project:
+
     Logistic Regression
+    
     Naive Bayes
 
 # Results
@@ -24,8 +29,11 @@ How to Run the Code
 To run the code for this project, you will need to have Python 3 and the libraries listed above installed on your system.
 
     Clone this repository to your local machine.
+    
     Navigate to the project directory in your terminal or command prompt.
+    
     Run the following command to install the required libraries: pip install -r requirements.txt
+    
     Run the following command to execute the code: python main.py
 
 # Conclusion
