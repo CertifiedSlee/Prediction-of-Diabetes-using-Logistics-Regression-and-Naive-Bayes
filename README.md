@@ -1,0 +1,1 @@
+# Prediction-of-Diabetes-using-Logistics-Regression-and-Naive-Bayes
